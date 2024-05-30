@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Meu Primeiro Projeto com IA Generativa - D-ID 🚀
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é uma experiência inicial com tecnologias de IA generativa, realizado como parte do bootcamp Santander 2024 - Fundamentos de IA para Devs da DIO (Digital Innovation One). Utilizando a plataforma D-ID, criei um vídeo curto de nove segundos, onde carreguei uma foto minha e gravei um áudio na própria plataforma para gerar um avatar virtual falante.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Plataforma D-ID: Para criação de vídeos com avatares virtuais.
+- GitHub: Para versionamento e compartilhamento do projeto.
+- DIO: Para a realização do bootcamp e fornecimento do desafio.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Escolha da Imagem:** Carreguei uma foto minha na plataforma D-ID.
+2. **Gravação do Áudio:** Gravei um áudio curto diretamente na plataforma.
+3. **Geração do Vídeo:** Utilizei as ferramentas da D-ID para sincronizar o áudio com a imagem, criando um avatar virtual que fala.
+4. **Edição e Ajustes:** Realizei pequenos ajustes para garantir a melhor sincronização possível entre o áudio e a imagem.
+5. **Exportação:** Exporteio vídeo gerado de nove segundos para compartilhamento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Criei um vídeo de nove segundos onde meu avatar virtual fala a mensagem gravada.
+- Primeira experiência prática com IA generativa, ampliando meu portfólio e conhecimento na área.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Este projeto foi um ótimo ponto de partida para explorar as capacidades das IAs generativas. Foi interessante ver como uma simples imagem e um áudio podem ser transformados em um vídeo convincente. Estou ansiosa para continuar explorando essas tecnologias e aplicá-las em projetos futuros.
 
-### Exemplos e Insigths
+## 📈 Efeito de Rede
+Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de marcar a DIO e o falvojr.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+---
 
-## Links Interessantes
+#LabDIONattyOrNot #IA #IAGenerativa #BootcampSantander #DIO
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
