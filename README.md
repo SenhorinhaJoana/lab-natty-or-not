@@ -3,6 +3,9 @@
 ## 📒 Descrição
 Este projeto é uma experiência inicial com tecnologias de IA generativa, realizado como parte do bootcamp Santander 2024 - Fundamentos de IA para Devs da DIO (Digital Innovation One). Utilizando a plataforma D-ID, criei um vídeo curto de nove segundos, onde carreguei uma foto minha e gravei um áudio na própria plataforma para gerar um avatar virtual falante.
 
+## 📹 Vídeo do Projeto
+[(https://studio.d-id.com/share?id=1df0b4199bb10f676553b3d90f9b7e22&utm_source=copy)]
+
 ## 🤖 Tecnologias Utilizadas
 - Plataforma D-ID: Para criação de vídeos com avatares virtuais.
 - GitHub: Para versionamento e compartilhamento do projeto.
@@ -22,10 +25,6 @@ Este projeto é uma experiência inicial com tecnologias de IA generativa, reali
 ## 💭 Reflexão
 Este projeto foi um ótimo ponto de partida para explorar as capacidades das IAs generativas. Foi interessante ver como uma simples imagem e um áudio podem ser transformados em um vídeo convincente. Estou ansiosa para continuar explorando essas tecnologias e aplicá-las em projetos futuros.
 
-## 📈 Efeito de Rede
-Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de marcar a DIO e o falvojr.
-
 ---
 
 #LabDIONattyOrNot #IA #IAGenerativa #BootcampSantander #DIO
-
